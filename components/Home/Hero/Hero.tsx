@@ -12,21 +12,22 @@ const Hero = () => {
 					data-aos='fade-left'
 					className='text-white text-opacity-80 text-center text-base sm:text-lg uppercase font-medium '
 				>
-					The best Way To
+					Найкраща агенція
 				</h1>
 				<h1
 					data-aos='fade-right'
 					data-aos-delay='150'
 					className='text-center font-semibold text-3xl sm:text-5xl text-white mt-4 '
 				>
-					Find Your Dream Home
+					Знайдіть житло своєї мрії
 				</h1>
 				<p
 					data-aos='fade-up'
 					data-aos-delay='300'
 					className='mt-4 text-center text-sm sm:text-base text-gray-200 '
 				>
-					We’ve more than 745,000 apartments, place & plot.
+					У нас понад 250 квартир, будинківб офісів та земельних
+					ділянок.
 				</p>
 				<div
 					data-aos='zoom-in'

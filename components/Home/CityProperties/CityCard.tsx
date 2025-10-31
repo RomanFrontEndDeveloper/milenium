@@ -26,7 +26,7 @@ const CityCard = ({ city }: Props) => {
 					{city.cityName}
 				</h1>
 				<p className='text-gray-200 '>
-					{city.numberOfProperties} Properties
+					{city.numberOfProperties} Об'єктів нерухомості
 				</p>
 			</div>
 		</div>

@@ -25,8 +25,7 @@ const Footer = () => {
 						</h1>
 					</div>
 					<p className='text-gray-300 mt-6'>
-						Lorem ipsum dolor sit, amet consectetur adipisicing
-						elit.
+						Найкраще агенство нерухомості у м.Хмельницький
 					</p>
 					<p className='text-gray-300 mt-4 font-semibold'>
 						milenium69@gmail.com
@@ -44,43 +43,43 @@ const Footer = () => {
 				{/* 2nd Part */}
 				<div className='md:mx-auto'>
 					<h1 className='text-lg text-white font-bold mb-7	 mt-4'>
-						Popular Search
+						Популярний пошук
 					</h1>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Apartment For Rent
+						Квартира в оренду
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Apartment Low to High
+						Квартира на будь-яку ціну та смак
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Offices For By
+						Офіси (купівля)
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Offices For Rent
+						Офіси (оренда)
 					</p>
 				</div>
 				{/* 3nd Part */}
 				<div className='lg:mx-auto'>
 					<h1 className='text-lg text-white font-bold mb-7 mt-4'>
-						Quick Link
+						Швидке посилання
 					</h1>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Terms pf use
+						Умови використання
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Privacy Policy
+						Політика конфіденційності
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Pricing Plans
+						Тарифні плани
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Our Services
+						Наші послуги
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Contact Support
+						Зверніться до служби підтримки
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Careers
+						Кар'єра у нас
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
 						FAQ
@@ -89,30 +88,30 @@ const Footer = () => {
 				{/* 4nd Part */}
 				<div className='md:mx-auto'>
 					<h1 className='text-lg text-white font-bold mb-7 mt-4'>
-						Discover
+						Відкрийте
 					</h1>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Miami
+						Дубове
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Los Angeles
+						Центр
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Chicago
+						Виставка
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						NewYork
+						Ракове
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						Contact Support
+						Південно-західний
 					</p>
 					<p className='text-base text-white hover:text-rose-500 hover:underline cursor-pointer text-opacity-50 mb-3 w-fit'>
-						London
+						Озерна
 					</p>
 				</div>
 			</div>
 			<p className='text-center mt-4 text-base text-white opacity-70'>
-				©Copyright 2025 by webdev warriors
+				© Авторське право 2025 року належить Pushkar Andrew
 			</p>
 		</div>
 	);

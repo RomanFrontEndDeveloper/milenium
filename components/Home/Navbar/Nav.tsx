@@ -16,27 +16,27 @@ export const navLinks = [
 	{
 		id: 1,
 		url: '#',
-		label: 'Home',
+		label: 'Будинки',
 	},
 	{
 		id: 2,
 		url: '#',
-		label: 'Listing',
+		label: 'Є-оселя',
 	},
 	{
 		id: 3,
 		url: '#',
-		label: 'Property',
+		label: 'Нерухомість',
 	},
 	{
 		id: 4,
 		url: '#',
-		label: 'Blog',
+		label: 'Блог',
 	},
 	{
 		id: 5,
 		url: '#',
-		label: 'Contact',
+		label: 'Наші контакти',
 	},
 ];
 
@@ -93,7 +93,7 @@ const Nav = ({ openNav }: Props) => {
 					<div className='flex items-center cursor-pointer rounded-full text-white space-x-2 hover:text-red-400 transition-all duration-200'>
 						<FaUserCircle className='w-5 h-5' />
 						<p className='font-bold text-xs sm:text-base'>
-							Login / Register
+							Логін / Реєстрація
 						</p>
 					</div>
 					{/* Burger-Menu */}

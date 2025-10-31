@@ -2,26 +2,26 @@ export const navLinks = [
 	{
 		id: 1,
 		url: '#',
-		label: 'Home',
+		label: 'Головна',
 	},
 	{
 		id: 2,
 		url: '#',
-		label: 'Listing',
+		label: 'Є-оселя',
 	},
 	{
 		id: 3,
 		url: '#',
-		label: 'Property',
+		label: 'Нерухомісь',
 	},
 	{
 		id: 4,
 		url: '#',
-		label: 'Blog',
+		label: 'Блог',
 	},
 	{
 		id: 5,
 		url: '#',
-		label: 'Contact',
+		label: 'Наші контакти',
 	},
 ];

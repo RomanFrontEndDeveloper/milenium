@@ -45,7 +45,7 @@ const BlogCard = ({ blog }: Props) => {
 						{blog.shortDescription}
 					</p>
 					<div className='mt-4 flex items-center space-x-2 hover:text-red-500 cursor-pointer'>
-						<span className='font-bold'>Read More</span>
+						<span className='font-bold'>Читати далі</span>
 						<BsArrowRight />
 					</div>
 				</div>

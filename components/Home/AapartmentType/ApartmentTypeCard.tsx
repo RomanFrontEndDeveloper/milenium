@@ -17,7 +17,7 @@ const ApartmentTypeCard = ({ type }: Props) => {
 			<div className='mt-12'>
 				<h1 className='text-lg font-bold '>{type.type}</h1>
 				<p className='mt-2 text-sm text-gray-800 '>
-					{type.number} Properties
+					{type.number} Об'єктів нерухомості
 				</p>
 			</div>
 		</div>
