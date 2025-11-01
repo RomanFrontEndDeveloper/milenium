@@ -177,10 +177,10 @@ export const blogs = [
 	{
 		id: 1,
 		date: '28 Okt 2025',
-		comment: 'Comments (3)',
-		title: 'Find the Perfect Advertiser for Your Needs',
+		comment: 'Коментарі (3)',
+		title: 'Знайдіть правильного рекламодавця для ефективного розвитку вашого бізнесу.',
 		shortDescription:
-			'Find the right advertiser to effectively boost your business.',
+			'Знайдіть правильного рекламодавця для ефективного розвитку вашого бізнесу..',
 		image: '/images/p1.jpg',
 	},
 	{
@@ -189,7 +189,7 @@ export const blogs = [
 		comment: 'Comments (2)',
 		title: 'Maximize Your Business Growth with Smart Marketing',
 		shortDescription:
-			'Grow your business using smart, effective marketing strategies.',
+			'Розвивайте свій бізнес, використовуючи розумні та ефективні маркетингові стратегії.',
 		image: '/images/p2.jpg',
 	},
 	{
@@ -198,7 +198,7 @@ export const blogs = [
 		comment: 'Comments (5)',
 		title: 'Tips for Choosing the Right Property to Invest In',
 		shortDescription:
-			'Select the best properties for secure and profitable investments.',
+			'Оберіть найкращу нерухомість для безпечних та прибуткових інвестицій.',
 		image: '/images/p3.jpg',
 	},
 ];
@@ -206,30 +206,30 @@ export const blogs = [
 export const userReviewData = [
 	{
 		id: 1,
-		name: 'John Doe',
-		profession: 'Real Estate Agent',
+		name: 'Іван Микитюк',
+		profession: 'Ріелтор',
 		userImage: '/images/u1.jpg',
-		review: 'A wonderful experience! The platform made it easy to find exactly what I needed.',
+		review: 'Чудовий вибір нерухомості та безперебійний процес. Настійно рекомендую всім, хто хоче інвестувати.',
 	},
 	{
 		id: 2,
-		name: 'Mike Smith',
-		profession: 'Property Investor',
+		name: 'Олег Пушкаренко',
+		profession: 'Інвестор',
 		userImage: '/images/u2.jpg',
-		review: 'Great selection of properties and seamless process. Highly recommended for anyone looking to invest.',
+		review: 'Чудовий вибір нерухомості та безперебійний процес. Настійно рекомендую всім, хто хоче інвестувати.',
 	},
 	{
 		id: 3,
-		name: 'Alex Johnson',
-		profession: 'Home Buyer',
+		name: 'Юрій Смаровоз',
+		profession: 'Будівельна компанія',
 		userImage: '/images/u3.jpg',
-		review: 'The website helped me find my dream home quickly and hassle-free. Exceptional service!',
+		review: 'Ан МІЛЕНІУМ допомогли мені швидко та без проблем знайти будинок моєї мрії. Винятковий сервіс!',
 	},
 	{
 		id: 4,
-		name: 'Emily Clark',
-		profession: 'Interior Designer',
+		name: 'Юлія Павлюк',
+		profession: 'Дизайнер',
 		userImage: '/images/u4.jpg',
-		review: 'Fantastic range of properties with clear details. The best platform for home and design inspiration!',
+		review: 'Фантастичний вибір нерухомості з чіткими деталями. Найкраща платформа для натхнення для дому та дизайну!',
 	},
 ];

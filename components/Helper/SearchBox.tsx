@@ -17,7 +17,7 @@ const SearchBox = () => {
 						<p className='text-gray-700 font-semibold '>Фільтри</p>
 					</div>
 					<div className='w-12 h-12 bg-rose-600 flex items-center hover:bg-rose-800 transition-all duration-150 cursor-pointer justify-center text-white rounded-full'>
-						<FaSearch className='' />
+						<FaSearch />
 					</div>
 				</div>
 			</div>
